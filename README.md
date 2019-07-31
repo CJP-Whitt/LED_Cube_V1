@@ -1,4 +1,4 @@
-# LED-Cube
+# LED Cube V1
 Arduino LED Cube
 
 This is code and descriptions of the process I have gone through to create an LED Cube. The LED is very useful for
