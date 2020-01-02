@@ -22,5 +22,9 @@ And here is the insides...ya its not pretty, and thus why this is Version 1
 
 - There is a tray that holds a Pro Trinket board with code running all of the light functions and controls for the MPU
 - There is also a battery pack with a piggy back on the Trinket board for charging
-- The ouside of the cube has a hole for charging and accessing the Trinket board, as well as a switch for on/off
+- The ouside of the cube has a hole for charging and accessing the Trinket board, as well as a switch for on/off\
+
+My favorite part of the cube is the accelerometer which you can see in the top half of the first picture, it lets me use tap commands to switch between light functions which makes the cube overall much more enjoyable to use. I coded it to use double taps to go to the next light function.
+![alt test](LEDCube_V1_Photos/MPU_View.jpg)
+
 
