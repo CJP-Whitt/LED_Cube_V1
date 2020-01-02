@@ -13,5 +13,5 @@ Here is a pic of the final product
 ![alt test](LEDCube_V1_Photos/Final_Cube.jpg)
 
 And here is the insides
-![alt test](LEDCube_V1_Photos/Final_TopDown.jpg)
+![alt test](LEDCube_V1_Photos/TopDown.jpg)
 
