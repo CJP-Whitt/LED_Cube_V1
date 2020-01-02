@@ -12,6 +12,6 @@ Due to lack of documentation on my parts I dont have any pictures of the build p
 Here is a pic of the final product
 ![alt test](LEDCube_V1_Photos/Final_Cube.jpg)
 
-And here is the insides
-![alt test](LEDCube_V1_Photos/TopDown.jpg)
+And here is the insides...ya its not pretty, and thus why this is Version 1
+![alt test](LEDCube_V1_Photos/Final_TopView.jpg)
 
