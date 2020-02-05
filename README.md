@@ -6,7 +6,9 @@ understanding basic CS concepts and I believe could be very useful in computer s
 Also the LED Cube is just cool. With a good understanding of hardware and coding you can do a lot of things with 54
 individually addressable LEDs.
 
-Due to lack of documentation on my parts I don't have any pictures of the build process but you should be able to tell from the final product that it was not easy.
+Fusion 360 Dynamic Link to CAD --> https://a360.co/2GVcFAf
+
+Due to lack of documentation on my part I don't have any pictures of the build process but you should be able to tell from the final product that it was not easy.
 
 ## Build
 Here is a pic of the final product
